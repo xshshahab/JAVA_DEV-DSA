@@ -101,8 +101,9 @@ This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](
 
 ## Contact
 
-    If you have any questions or need further assistance, please reach out through the following channels:
+If you have any questions or need further assistance, please reach out through the following channels:
 
-    - Twitter : xsh_shahab
+- **Twitter:** [xsh_shahab](https://twitter.com/xsh_shahab)
+- **Instagram:** [xsh_shahab](https://instagram.com/xsh_shahab)
 
--Feel free to connect and follow for updates on Java development and algorithmic challenges.
+Feel free to connect and follow for updates on Java development and algorithmic challenges.
