@@ -95,8 +95,14 @@ To get started with this repository, follow these steps:
 7. **Create a Pull Request:**
    Go to the original repository and create a pull request. This will allow you to propose your changes to be merged into the main repository.
 
+## License
+
+This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more information.
+
 ## Contact
 
     If you have any questions or need further assistance, please reach out through the following channels:
 
-    - **Twitter :** xsh_shahab
+    - Twitter : xsh_shahab
+
+-Feel free to connect and follow for updates on Java development and algorithmic challenges.
