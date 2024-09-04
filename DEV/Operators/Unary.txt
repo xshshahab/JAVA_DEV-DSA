@@ -1,0 +1,10 @@
+
+-----------------------------------------------------------------------------------------------
+| Operator       |  Description                                                   | Example   |
+-----------------------------------------------------------------------------------------------
+|  - ( minus )   |  Converts a positive value to a negative                       | x = -y    |
+| Pre Increment  |  Increment the value by 1 and then use it in our statement     | x = ++y   |
+| Pre Decrement  |  Decrement the value by 1 and then use it in our statement     | x = --y   |
+| Post Increment |  Use current value in the statement and then Increment it by 1 | x = y++   |
+| Post Decrement |  Use current value in the statement and then Decrement it by 1 | x = y--   |
+-----------------------------------------------------------------------------------------------
