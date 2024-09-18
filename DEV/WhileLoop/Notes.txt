@@ -1,0 +1,6 @@
+Quiz : What is a while loop?
+    -> Code that runs multiple  times until a certain condition is met.
+    -> Repeated execution of Code
+    -> Loops automate repetitive tasks.
+    -> Type of Loops : while, for, do-while.
+    -> Iterations : Numebers of times the loop runs.

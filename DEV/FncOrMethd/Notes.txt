@@ -1,0 +1,24 @@
+What are functions / Methods ?
+
+    Definition : Blocks of reusable code.
+    DRY principle : "Don't repeat yourself". It encourages code reusability.
+    Usage : Organizes code and performs specific tasks.
+    Naming Rules : Same as variable names. " camelCase "
+
+Syntax :
+--------
+
+e.g. 1:
+public int addition(int operand1, int operand2) {
+    int sum = operand1 + operand2;
+    return sum;
+}
+
+summary : 
+        public   : modifier
+        int      : return type
+        addition : method name   
+
+        ( operand1, operand2, ... ) => parameter-list
+        
+        { int sum = operand1 + operand2; return sum; } => body of the method
